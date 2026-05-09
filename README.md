@@ -16,7 +16,7 @@ A modern, futuristic platform connecting developers and users. Designed for Trus
 - **Typography:** Clean sans-serif, bold hierarchy
 
 ## Figma Prototype
-[https://www.figma.com/proto/sJFRv52lwfV4NXu28XiU9x/DevConnect-Assesment?node-id=0-1&t=U9HNTI4jIZsY53n8-1](url)
+https://www.figma.com/design/sJFRv52lwfV4NXu28XiU9x/DevConnect-Assesment?node-id=0-1&t=U9HNTI4jIZsY53n8-1
 
 ## Technologies Used
 - Figma (Design + Prototype)
